@@ -16,6 +16,14 @@ public class MainActivity extends AppCompatActivity {
     Integer[] ImageArray = {
             R.drawable.a1, R.drawable.a2,
             R.drawable.a3, R.drawable.a4,
+            R.drawable.a5, R.drawable.b2,
+            R.drawable.a6, R.drawable.b4,
+            R.drawable.a7, R.drawable.b5,
+            R.drawable.a8, R.drawable.b10,
+            R.drawable.a9, R.drawable.b6,
+            R.drawable.a10, R.drawable.b7,
+            R.drawable.b1, R.drawable.b8,
+            R.drawable.b3, R.drawable.b9,
 
 
     };
